@@ -6,5 +6,7 @@
 Вывод по части 2:
 
 Watch может употребляться только с tv, television
+
 See может употребляться только с table, chapter
+
 See и watch могут употребляться со словами man, people
